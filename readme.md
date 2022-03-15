@@ -1,3 +1,3 @@
 
 
-Discord for Github Action: https://discord.gg/V6cQqZ9K
+Discord for Github Action using webhooks: https://discord.gg/V6cQqZ9K
